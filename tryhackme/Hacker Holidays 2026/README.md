@@ -39,6 +39,8 @@ A collection of my write-ups for the **Hacker Holidays 2026** 14-day challenge o
 - KAPE
 - DPAPI
 - Credential Recovery
+<img width="806" height="943" alt="Screenshot 2026-08-09 231600" src="https://github.com/user-attachments/assets/f1f0e5a2-9e27-4969-bf3d-033fa3b7e7e5" />
+
 
 ---
 
