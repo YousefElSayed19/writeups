@@ -5,3 +5,6 @@
 ```
 nmap -p- -Pn <ip_target >
 ```
+####use option 
+  -p- => for scan all ports ( 65535 port )
+  -Pn => for scan without arb or icmp protocols 
